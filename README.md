@@ -1,4 +1,4 @@
-# Text-Based-Game
+# Text-Based-Dungeon-Game
 Created by: Sethumi Hapuarachchi
 
 Date: April 2024
